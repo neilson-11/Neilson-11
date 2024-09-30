@@ -1,12 +1,14 @@
-## oi, bem vindo  👋
+### Boas vindas ao meu perfil ⚽
 
+Meu nome é Neilson 
 
-**meu nome e Neilson 
+- Estou estudando na escola israel shoba
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Utilizo esse espaço para ganhar nota 😁
 
-sobre mim:
+### Você pode entrar em contato comigo 📱
 
-- 📕sou estudante da escola israel shoba
-- ⚽gosto de futebol
-- 👑neymar
-  ![](https://media1.tenor.com/m/MhpcPDesURYAAAAd/neymar-neymar-jr.gif)
+00001140926573sp@al.educacao.sp.gov.br
+
+![](https://media1.tenor.com/m/-S1hLDFv1G0AAAAC/neymar-neymar-jr.gif)
 
